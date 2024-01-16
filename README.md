@@ -1,7 +1,6 @@
 ## Tabla de contenidos
 - Contexto social
-- [Contexto mundial](#contexto_mundial)
-- [Contexto regional](#contexto_regional)
+- [Contexto mundial](#contexto_mundial)- [Contexto regional](#contexto_regional)
 - [Nivel nacional](#nivel_nacional)
 - [Docentes del curso](#docentes_del_curso)
 
